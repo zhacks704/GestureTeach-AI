@@ -1,13 +1,19 @@
-# Project Information
+# GestureTeach AI - Authors
 
-Project Name:
-GestureTeach AI
+## Creator
 
-Maintainer:
 ZAID BILAL
 
-Repository:
-GestureTeach-AI
+## Role
 
-Development:
+- Project Concept Creator
+- System Designer
+- Repository Maintainer
+
+## Project
+
+GestureTeach AI
+
+## Year
+
 2026
